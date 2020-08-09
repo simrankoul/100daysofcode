@@ -197,6 +197,10 @@ a:focus {
 	}
 }
 
+hr.line1 {
+	 border-color: #FF5470;
+		border-width: 10px;
+}
 /* Box colors */
 .bg-1 {
 	background: #ECEFF1;
